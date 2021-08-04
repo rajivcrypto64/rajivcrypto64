@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar</h1>
-<h3 align="center">A passionate and self motivated tech enthusiast and full stack web developer .</h3>
+<h3 align="center">A Passionate And Self Motivated Tech Enthusiast And Full Stack Web Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivcrypto64&label=Profile%20views&color=0e75b6&style=flat" alt="rajivcrypto64" /> </p>
 
